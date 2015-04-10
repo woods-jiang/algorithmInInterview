@@ -1,3 +1,5 @@
+
+// 求词典中的所有变位词
 #include <iostream>
 #include <fstream>
 #include <string>
